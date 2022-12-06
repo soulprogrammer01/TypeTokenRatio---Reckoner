@@ -3,9 +3,8 @@ A information blog to show the usablitity of the Type-Token-Ratio Measure (TTR) 
  ##### How to run: 
  
  ``` 
- python TTR_Generator.py
+ python TTR_Rec.py
  ```
- <br><br>
 <div style="text-align:center"><h1>
 Lets Start: 
 </h1></div>
